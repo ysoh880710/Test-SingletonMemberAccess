@@ -29,3 +29,7 @@ ex)
 ```
 
 ![2](2.png)
+
+## Note
+
+- https://github.com/ysoh880710/Test-MemberVariableAccessInAssembly
